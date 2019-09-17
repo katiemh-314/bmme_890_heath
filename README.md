@@ -19,5 +19,8 @@ crosstab Survive and Pclass
 (Finished) Create a Kaggle submission using Pandas (following the notebook from lecture 3). The submission should assign survival 1 to passengers of Pclass=1 and Age<10. Submit to Kaggle and paste here the link to your Kaggle submission/user.
 Push the notebook to your repository. Update the readme file with what you did for assignment HW2a. Paste link here. 
 
-HW2b:
-Added to my repository (incomplete)
+Completed HW2b:
+Added to my repository (complete)
+(Completed) HW2b
+
+HW3:
