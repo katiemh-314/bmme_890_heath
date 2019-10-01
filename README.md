@@ -23,4 +23,6 @@ Completed HW2b:
 Added to my repository (complete)
 (Completed) HW2b
 
-HW3:
+Complete4d HW3:
+Uploaded presentation to Keita's repository. (Complete)
+https://github.com/keitaay/bmme_890_yokoyama
