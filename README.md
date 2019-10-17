@@ -26,3 +26,6 @@ Added to my repository (complete)
 Complete4d HW3:
 Uploaded presentation to Keita's repository. (Complete)
 https://github.com/keitaay/bmme_890_yokoyama
+
+Completed HW4 Titanic: 
+Please attach the ipython notebook creating the submission to the homeworks and please also upload to your github repo (Completed)
