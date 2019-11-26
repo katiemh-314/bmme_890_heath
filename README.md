@@ -32,3 +32,6 @@ Please attach the ipython notebook creating the submission to the homeworks and 
 
 Completed HW6:
 Uploaded file(Completed)
+
+Complete HW 7:
+Uploaded file(completed
